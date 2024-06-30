@@ -292,7 +292,7 @@ gsap.timeline({
     end:"+=150%",
     scrub:1,
     pin:true,
-    markers:true
+    //markers:true
   }
 })
 .add("start")
